@@ -1,0 +1,2 @@
+# gtrendsR
+Google Trends update
